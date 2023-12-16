@@ -15,15 +15,15 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Georgia, serif",
-  regular: 400,
+  font-family: "sans-serif",
+  regular: 300,
   bold: 700,
   italic: italic,
-  cap-height: 0.75
+  cap-height: 0.65
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: 'sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75

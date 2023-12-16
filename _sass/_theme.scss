@@ -4,6 +4,7 @@ body {
   color: $bodyColour;
   height: 100%;
   display: flex;
+  text-align: justify;
   @include flex-direction(column);
   overflow-x: hidden;
 }
@@ -13,7 +14,6 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
-
 
 // Header, feature and footer
 .header,
