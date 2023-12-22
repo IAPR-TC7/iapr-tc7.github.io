@@ -4,6 +4,7 @@ body {
   color: $bodyColour;
   height: 100%;
   display: flex;
+  font-size: 1.7rem;
   text-align: justify;
   @include flex-direction(column);
   overflow-x: hidden;
