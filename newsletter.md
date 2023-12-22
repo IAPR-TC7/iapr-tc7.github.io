@@ -2,8 +2,7 @@
 title: Newsletter 16
 ---
 
-Merry christmas with a new IAPR TC7 newsletter! The newsletter summarizes all the deadlines and events that might be of interest to you. Stay updated by following us on [X (@IAPR_TC7)](https://twitter.com/IAPR_TC7) and [LinkedIn](https://www.linkedin.com/company/iapr-technical-committee-7-tc7-%E2%80%93-remote-sensing-and-mapping). If you have any news to share with us, please reach out to us.
-We also organize an IGARSS contributed session on [Data-centric AI for the Geosciences](https://2024.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2030) together with Manil Maskey and Begüm Demir.
+Happy holidays and merry Christmas with a new IAPR TC 7 newsletter! The newsletter summarizes all the deadlines and events that might be of interest to you. Stay updated by following us on [X (@IAPR_TC7)](https://twitter.com/IAPR_TC7) and [LinkedIn](https://www.linkedin.com/company/iapr-technical-committee-7-tc7-%E2%80%93-remote-sensing-and-mapping). If you have any news to share with us, please reach out to us. We also organize an IGARSS community contributed session on [Data-centric AI for the Geosciences](https://2024.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2030) together with Manil Maskey and Begüm Demir.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Christmas_tree_02.svg/423px-Christmas_tree_02.svg.png" width=40px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Weihnachtsbaum.wiki.png" width=40px>
