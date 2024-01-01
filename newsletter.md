@@ -2,15 +2,15 @@
 title: Newsletter 16
 ---
 
-Happy holidays and merry Christmas with a new IAPR TC 7 newsletter! The newsletter summarizes all the deadlines and events that might be of interest to you. Stay updated by following us on [X (@IAPR_TC7)](https://twitter.com/IAPR_TC7) and [LinkedIn](https://www.linkedin.com/company/iapr-technical-committee-7-tc7-%E2%80%93-remote-sensing-and-mapping). If you have any news to share with us, please reach out to us. We also organize an IGARSS community contributed session on [Data-centric AI for the Geosciences](https://2024.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2030) together with Manil Maskey and Begüm Demir.
+Happy new year 2024 with a new IAPR TC 7 newsletter! The newsletter summarizes all the deadlines and events that might be of interest to you. Stay updated by following us on [X (@IAPR_TC7)](https://twitter.com/IAPR_TC7) and [LinkedIn](https://www.linkedin.com/company/iapr-technical-committee-7-tc7-%E2%80%93-remote-sensing-and-mapping). If you have any news to share with us, please reach out to us. We also organize an IGARSS community contributed session on [Data-centric AI for the Geosciences](https://2024.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2030) together with Manil Maskey and Begüm Demir.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Christmas_tree_02.svg/423px-Christmas_tree_02.svg.png" width=40px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Emojione_1F386.svg/480px-Emojione_1F386.svg.png" width=40px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Weihnachtsbaum.wiki.png" width=40px>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Christmas_tree_02.svg/423px-Christmas_tree_02.svg.png" width=40px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Emojione_1F386.svg/480px-Emojione_1F386.svg.png" width=40px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Weihnachtsbaum.wiki.png" width=40px>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Christmas_tree_02.svg/423px-Christmas_tree_02.svg.png" width=40px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Emojione_1F386.svg/480px-Emojione_1F386.svg.png" width=40px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Weihnachtsbaum.wiki.png" width=40px>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Christmas_tree_02.svg/423px-Christmas_tree_02.svg.png" width=40px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Emojione_1F386.svg/480px-Emojione_1F386.svg.png" width=40px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Weihnachtsbaum.wiki.png" width=40px>
 
 ## Conferences & Workshops 
@@ -22,6 +22,18 @@ Happy holidays and merry Christmas with a new IAPR TC 7 newsletter! The newslett
     * Where: Vienna, Austria
     * When: May 11th 2024
     * Submission deadline: Feburary 3rd 2024
+
+* [Tackling Climate Change with Machine Learning (CCAI)](https://www.climatechange.ai/events/iclr2024)
+    * Workshop at the International Conference for Learning Representations (ICLR)
+    * Where: Vienna, Austria
+    * When: May 11th 2024
+    * Submission deadline: Feburary 3rd 2024
+
+* [Climate Informatics 2024](https://alan-turing-institute.github.io/climate-informatics-2024/)
+    * Annual conference series hosted by the Alan Turing Institute
+    * Where: London, UK.
+    * When: 22nd-24th April 2024
+    * Submission deadline: Feburary 2nd 2024
 
 * [ESA-ECMWF Workshop](https://www.ml4esop.esa.int/)
     * Where: Frascati, Italy
