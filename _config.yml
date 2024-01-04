@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: Newsletter
   url: /newsletter/
+- title: PRRS Workshops
+  url: /workshops/
 
 navigation_footer:
 - title: Website modified from Alembic Jeckyll template by David Darnes
