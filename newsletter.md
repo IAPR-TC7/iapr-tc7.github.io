@@ -17,6 +17,17 @@ Happy new year 2024 with a new IAPR TC 7 newsletter! The newsletter summarizes a
 
 **deadline coming soon:**
 
+* [Earthvision 2024](https://www.grss-ieee.org/events/earthvision-2024/)
+    * Workshop at the Computer Vision and Pattern Recognition (CVPR) 2024 Conference
+    * Where: Seattle, USA
+    * When: June 17/18th 2024
+    * Submission deadline: March 8th 2024
+
+* [MultiEarth](https://www.ll.mit.edu/conferences-events/2024/06/multiearth-workshop-2024)
+    * Workshop at the Computer Vision and Pattern Recognition (CVPR) 2024 Conference
+    * Where: Seattle, USA
+    * When: June 17/18th 2024
+
 * second [Machine Learning for Remote Sensing workshop (ML4RS)](https://ml-for-rs.github.io/iclr2024/)
     * Workshop at the International Conference for Learning Representations (ICLR)
     * Where: Vienna, Austria
@@ -40,23 +51,18 @@ Happy new year 2024 with a new IAPR TC 7 newsletter! The newsletter summarizes a
     * When: 7-10 May 2024
     * Submission deadline: January 31st 2024
 
-* IEEE International Geoscience and Remote Sensing Symposium ([IGARSS](https://www.2024.ieeeigarss.org/))
-    * Where: Athens, Greece
-    * When: July 7-12, 2024
-    * Submission deadline: January 15, 2024
-    * Contributed Session: [Data-centric AI for the Geosciences](https://2024.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2030)
-
 * [ISPRS TCII mid-term symposium](https://www.isprs.org/tc2-symposium2024/index.html) on the theme of The Role of Photogrammetry for a Sustainable World 
     * Where: Las Vegas, 2024
     * When: June 11-14, 2024
     * Submission deadline: February 1, 2024
 
-* [HydroMediT 2024](https://hydromedit.gr/)
-    * Where: Lesvos, Greece
-    * When: May 30 - June 2nd, 2024
-    * Submission deadline: Februrary 4th, 2024
-
 **upcoming:**
+
+* IEEE International Geoscience and Remote Sensing Symposium ([IGARSS](https://www.2024.ieeeigarss.org/))
+    * Where: Athens, Greece
+    * When: July 7-12, 2024
+    * Contributed Session: [Data-centric AI for the Geosciences](https://2024.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2030)
+
 
 * [Machine Intelligence for GeoAnalytics and Remote Sensing (MIGARS) 2024](https://www.grss-ieee.org/resources/news/migars-2024/)
     * Where: Wellington, New Zealand
