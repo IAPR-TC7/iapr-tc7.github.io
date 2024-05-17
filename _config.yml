@@ -125,7 +125,9 @@ navigation_header:
   url: /
 - title: Newsletter
   url: /newsletter/
-- title: PRRS Workshops
+- title: PRRS 2024
+  url: /prrs2024/
+- title: Past PRRS Workshops
   url: /workshops/
 
 navigation_footer:

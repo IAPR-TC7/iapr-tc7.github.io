@@ -4,6 +4,7 @@ title: Pattern Recognition in Remote Sensing Workshops
 
 Pattern Recognition in Remote Sensing (PRRS) Workshops are a regular event coming every two years in close spatial and temporal vicinity to the main IAPR conferences – the ICPR. Workshop papers are available on IEEE-xplore.
 
+* [13th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2024)](prrs2024) in Kolkata (India) organized by Ribana Roscher, Ujjwal Verma, Johannes Leonhardt, Charlotte Pelletier, Sylvain Lobry, Marc Rußwurm
 * [12th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2022)](https://iapr-tc7.ipb.uni-bonn.de/index.html%3Fp=707.html) in Montreal (Canada) organized by Ribana Roscher & Charlotte Pelletier, Sylvain Lobry
 * 11th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2020) online organized by Ribana Roscher, Gabriele Cavallaro, E. Michaelsen & Uwe Stilla
 * 10th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2018) in Beijing (China) organized by Fenzhen Su, Jie Shan, E. Michaelsen & Uwe Stilla
