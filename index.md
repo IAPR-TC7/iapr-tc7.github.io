@@ -13,7 +13,6 @@ TC7 aims to **promote pattern recognition methods** for analyzing **Earth observ
 We
 * post a [newsletter](https://iapr-tc7.ipb.uni-bonn.de/newsletter/) with the latest conferences, workshops, and venues around remote sensing and mapping. Check the latest newsletter [here](/newsletter)
 * organize the [Pattern Recognition in Remote Sensing (PRRS)](https://iapr-tc7.ipb.uni-bonn.de/prrs-2022/) workshop
-* interview interesting people in the [Remote Sensing and Mapping Chats](https://iapr-tc7.ipb.uni-bonn.de/twitter-spaces/)
 * maintain and cultivate [Twitter/X](https://twitter.com/IAPR_TC7) and [LinkedIn accounts](https://www.linkedin.com/company/94250469/admin/feed/posts/)
 
 ### People
