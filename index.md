@@ -17,14 +17,35 @@ TC7 aims to **promote pattern recognition methods** for analyzing **Earth observ
 
 
 ### People
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<img width="100px" src="/assets/lobry.jpg"> <img width="100px" src="/assets/pelletier.jpg"> <img width="100px" src="/assets/russwurm.jpg"> <img width="150px" src="/assets/ksenia_bittner.jpeg"> <!-- <img width="100px" src="/assets/roscher.jpg"> -->
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
 
-<!-- [Ribana Roscher](https://www.fz-juelich.de/profile/roscher_r), Chair, Jülich Research Center & Uni Bonn -->
-[Sylvain Lobry](https://www.sylvainlobry.com/), Chair, Paris Descartes University
-
-[Charlotte Pelletier](https://sites.google.com/site/charpelletier/home), Vice-Chair, Université Bretagne Sud
-
-[Marc Rußwurm](https://www.marcrusswurm.com/), Vice-Chair,  Wageningen University
-
-[Ksenia Bittner](https://www.linkedin.com/in/dr-rer-nat-ksenia-bittner-409177a1/?originalSubdomain=de), Vice-Chair,  German Aerospace Center (DLR)
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<div class="row">
+  <div class="column">
+    <img src="/assets/sl.png" alt="Sylvain Lobry" style="width:100%"><p align="center"><a href="https://www.sylvainlobry.com/">Sylvain Lobry</a><br>Chair, Université Paris Cité</p>
+  </div>
+  <div class="column">
+    <img src="/assets/KB.png" alt="Ksenia Bittner" style="width:100%"><p align="center"><a href="https://www.linkedin.com/in/dr-rer-nat-ksenia-bittner-409177a1/">Ksenia Bittner</a><br>Vice-Chair, German Aerospace Center (DLR)</p>
+  </div>
+  <div class="column">
+    <img src="/assets/CP.png" alt="Charlotte Pelletier" style="width:100%"><p align="center"><a href="https://sites.google.com/site/charpelletier/home">Charlotte Pelletier</a><br>Vice-Chair, Université Bretagne Sud</p>
+  </div>
+  <div class="column">
+    <img src="/assets/MR.png" alt="Marc Rußwurm" style="width:100%"><p align="center"><a href="https://www.marcrusswurm.com/">Marc Rußwurm</a><br>Vice-Chair, Wageningen University</p>
+  </div>
+</div>
