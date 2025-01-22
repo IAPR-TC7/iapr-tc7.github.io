@@ -1,7 +1,7 @@
 ---
-title: 
+title:
 feature_text: |
-  ## Technical Committee 7 of the International Association for Pattern Recognition
+  ## Technical Committee 7 on Earth Observation<br>of the International Association for Pattern Recognition
 feature_image: "/assets/logos/cropped-earth-space.jpg"
 excerpt: ""
 ---
