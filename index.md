@@ -20,7 +20,7 @@ We
 <img width="100px" src="/assets/lobry.jpg"> <img width="100px" src="/assets/pelletier.jpg"> <img width="100px" src="/assets/russwurm.jpg"> <img width="150px" src="/assets/ksenia_bittner.jpeg"> <!-- <img width="100px" src="/assets/roscher.jpg"> -->
 
 <!-- [Ribana Roscher](https://www.fz-juelich.de/profile/roscher_r), Chair, Jülich Research Center & Uni Bonn -->
-[Sylvain Lobry](https://www.sylvainlobry.com/), Vice-Chair, Paris Descartes University
+[Sylvain Lobry](https://www.sylvainlobry.com/), Chair, Paris Descartes University
 
 [Charlotte Pelletier](https://sites.google.com/site/charpelletier/home), Vice-Chair, Université Bretagne Sud
 
