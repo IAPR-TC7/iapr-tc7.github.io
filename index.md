@@ -37,7 +37,7 @@ TC7 aims to **promote pattern recognition methods** for analyzing **Earth observ
 </style>
 <div class="row">
   <div class="column">
-    <img src="/assets/sl.png" alt="Sylvain Lobry" style="width:100%"><p align="center"><a href="https://www.sylvainlobry.com/">Sylvain Lobry</a><br>Chair, Université Paris Cité</p>
+    <img src="/assets/SL.png" alt="Sylvain Lobry" style="width:100%"><p align="center"><a href="https://www.sylvainlobry.com/">Sylvain Lobry</a><br>Chair, Université Paris Cité</p>
   </div>
   <div class="column">
     <img src="/assets/KB.png" alt="Ksenia Bittner" style="width:100%"><p align="center"><a href="https://www.linkedin.com/in/dr-rer-nat-ksenia-bittner-409177a1/">Ksenia Bittner</a><br>Vice-Chair, German Aerospace Center (DLR)</p>
