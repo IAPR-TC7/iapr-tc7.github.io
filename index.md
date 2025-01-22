@@ -11,18 +11,19 @@ TC7 aims to **promote pattern recognition methods** for analyzing **Earth observ
 ### Activities
 
 We
-* post a [newsletter](https://iapr-tc7.ipb.uni-bonn.de/newsletter/) with the latest conferences, workshops, and venues around remote sensing and mapping. Check the latest newsletter [here](/newsletter)
+* post a [newsletter](https://iapr-tc7.ipb.uni-bonn.de/newsletter/) with the latest conferences, workshops, and venues around Earth observation. Check the latest newsletter [here](/newsletter)
 * organize the [Pattern Recognition in Remote Sensing (PRRS)](https://iapr-tc7.ipb.uni-bonn.de/prrs-2022/) workshop
 * maintain and cultivate [Twitter/X](https://twitter.com/IAPR_TC7) and [LinkedIn accounts](https://www.linkedin.com/company/94250469/admin/feed/posts/)
 
 ### People
 
-<img width="100px" src="/assets/roscher.jpg"> <img width="100px" src="/assets/pelletier.jpg"> <img width="100px" src="/assets/lobry.jpg"> <img width="100px" src="/assets/russwurm.jpg">
+<img width="100px" src="/assets/lobry.jpg"> <img width="100px" src="/assets/pelletier.jpg"> <img width="100px" src="/assets/russwurm.jpg"> <img width="150px" src="/assets/ksenia_bittner.jpeg"> <!-- <img width="100px" src="/assets/roscher.jpg"> -->
 
-[Ribana Roscher](https://www.fz-juelich.de/profile/roscher_r), Chair, Jülich Research Center & Uni Bonn
+<!-- [Ribana Roscher](https://www.fz-juelich.de/profile/roscher_r), Chair, Jülich Research Center & Uni Bonn -->
+[Sylvain Lobry](https://www.sylvainlobry.com/), Vice-Chair, Paris Descartes University
 
 [Charlotte Pelletier](https://sites.google.com/site/charpelletier/home), Vice-Chair, Université Bretagne Sud
 
-[Sylvain Lobry](https://www.sylvainlobry.com/), Vice-Chair, Paris Descartes University
-
 [Marc Rußwurm](https://www.marcrusswurm.com/), Vice-Chair,  Wageningen University
+
+[Ksenia Bittner](https://www.linkedin.com/in/dr-rer-nat-ksenia-bittner-409177a1/?originalSubdomain=de), Vice-Chair,  German Aerospace Center (DLR)
