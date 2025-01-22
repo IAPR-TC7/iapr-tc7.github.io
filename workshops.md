@@ -10,9 +10,11 @@ Pattern Recognition in Remote Sensing (PRRS) Workshops are a regular event comin
 * 10th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2018) in Beijing (China) organized by Fenzhen Su, Jie Shan, E. Michaelsen & Uwe Stilla
 * 9th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2016) in Cancun (Mexico) organized by E. Michaelsen & Jie Shan
 * 8th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2014) in Stockholm (Sweden) organized by J. Q. Du & E. Michaelsen
-* 7th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2012) in Tsukuba (Japan), organized by J. Q. Du & E. Michaelsen
-* 6th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2010) in Istanbul (Turkey), organized by S. Aksoy
-* 5th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2008) in Tampa (Florida), organized by S. Aksoy
-* 4th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2006) in Hong Kong, organized by S. Aksoy
+* [7th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2012)](http://www.iapr-tc7.org/prrs12/) in Tsukuba (Japan), organized by J. Q. Du & E. Michaelsen
+* [6th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2010)](http://www.iapr-tc7.org/prrs10/) in Istanbul (Turkey), organized by S. Aksoy
+* [5th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2008)](http://www.iapr-tc7.org/prrs08/) in Tampa (Florida), organized by S. Aksoy
+* [4th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2006)](http://retina.cs.bilkent.edu.tr/prrs06/) in Hong Kong, organized by S. Aksoy
 * 3rd IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2004) in London (UK), organized by P. Gamba
 * 2nd IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS 2002) in Niagara Falls (US), organized by M. Petrou
+
+Previous IAPR TC7 website (until 2014): http://retina.cs.bilkent.edu.tr/iapr-tc7/prrs
