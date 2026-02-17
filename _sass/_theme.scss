@@ -456,3 +456,38 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+// PRRS workshop pages: tighten heading scale and relax content spacing.
+.layout-prrs2024 {
+  .content {
+    @include breakpoint(break-1) {
+      width: 68%;
+    }
+  }
+
+  .typeset {
+    h1,
+    .alpha {
+      @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
+    }
+
+    h2,
+    .beta {
+      @include sassline(gamma, $headingtype, 3, 1, all);
+      margin-top: 0.6rem;
+    }
+
+    p {
+      @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 3, $breakpoint: all);
+    }
+
+    ul,
+    ol {
+      @include baseline(zeta, $bodytype, 2, 3, all);
+    }
+
+    table {
+      margin-bottom: 1.2rem;
+    }
+  }
+}
