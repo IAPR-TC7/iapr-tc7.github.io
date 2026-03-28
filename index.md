@@ -46,6 +46,6 @@ TC7 aims to **promote pattern recognition methods** for analyzing **Earth observ
     <img src="/assets/CP.png" alt="Charlotte Pelletier" style="width:100%"><p align="center"><a href="https://sites.google.com/site/charpelletier/home">Charlotte Pelletier</a><br>Vice-Chair, Université Bretagne Sud</p>
   </div>
   <div class="column">
-    <img src="/assets/MR.png" alt="Marc Rußwurm" style="width:100%"><p align="center"><a href="https://www.marcrusswurm.com/">Marc Rußwurm</a><br>Vice-Chair, Wageningen University</p>
+    <img src="/assets/MR.png" alt="Marc Rußwurm" style="width:100%"><p align="center"><a href="https://www.marcrusswurm.com/">Marc Rußwurm</a><br>Vice-Chair, University of Bonn</p>
   </div>
 </div>
